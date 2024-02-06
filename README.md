@@ -6,7 +6,7 @@ I am constantly learning, developing my own commercial projects, as well as open
 
 Skills: VUE JS / Laravel / JS / HTML / CSS / Docker / Linux
 
-- 🔭 I’m currently working on https://lboster.ru
+- 🔭 I’m currently working on https://lbooster.ru
 - 📫 How to reach me: zorgan333@yandex.ru
 
 
